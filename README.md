@@ -15,7 +15,7 @@ This Python script interfaces with the Adafruit TSL2591 light sensor to measure 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tsl2591-sensor-logger.git
+   git clone https://github.com/NicolasSchuetz/tsl2591-sensor-logger.git
 2. Install the necessary dependencies:
    pip install adafruit-circuitpython-tsl2591
 3. Run the script:
